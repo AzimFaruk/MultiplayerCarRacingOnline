@@ -48,7 +48,7 @@ class Game {
 
     if(allPlayers !== undefined){
       //var display_position = 100;
-      image(track, 0,-displayHeight*4,displayWidth, displayHeight*5);
+      image(track, 0,-windowHeight*4, windowWidth, windowHeight*5);
 
       //index of the array
       var index =0;
